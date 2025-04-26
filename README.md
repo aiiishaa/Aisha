@@ -6,4 +6,13 @@
   <img align='left' width=100px src="https://habrastorage.org/webt/jt/4i/zc/jt4izcp0hadpvcmu0x3vb1irvys.jpeg" alt="django" /> 
 
 </div>
+</br>
+</br>
+
+### :chart_with_upwards_trend: Статистика :
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aiiishaa&theme=dark)](https://git.io/streak-stats)
+</br>
+### 📭: Как вы можете связаться со мной:
+
+<a href="https://t.me/msaiiisha"><img align='left' width=80px src="https://roszdravnadzor.gov.ru/i/upload/files/Главная%20страница/горячая%20линия/telegram.jpg" alt="django" /> </a>
