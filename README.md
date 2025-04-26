@@ -6,4 +6,4 @@
   <img align='left' width=100px src="https://habrastorage.org/webt/jt/4i/zc/jt4izcp0hadpvcmu0x3vb1irvys.jpeg" alt="django" /> 
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aiishaa&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aiiishaa&theme=dark)](https://git.io/streak-stats)
